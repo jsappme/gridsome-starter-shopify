@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f49331f9-7aa8-41d9-8e57-913af6b1638c/deploy-status)](https://app.netlify.com/sites/gridsome-shopify-starter/deploys)
 
 # Shopify starter for Gridsome
 
