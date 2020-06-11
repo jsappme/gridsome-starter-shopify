@@ -3,4 +3,5 @@
   command = "gridsome build"
   
 [template.environment]
-  HUBSPOT_API_KEY = "Your Hubspot API key"
+  GRIDSOME_SHOPIFY_STOREFRONT = "Your Shopify Storefront Name"
+  GRIDSOME_SHOPIFY_STOREFRONT_TOKEN = "Your Shopify Storefront Token"
