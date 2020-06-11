@@ -1,0 +1,6 @@
+[build]
+  publish = "dist"
+  command = "gridsome build"
+  
+[template.environment]
+  HUBSPOT_API_KEY = "Your Hubspot API key"

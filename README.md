@@ -2,6 +2,8 @@
 
 # Shopify starter for Gridsome
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jsappme/gridsome-starter-shopify)
+
 This is a boilerplate starter, aiming to showcase how Gridsome and Shopify can work together, to create an amazingly fast shopping experience for consumers. [View Demo](https://gridsome-shopify-starter.netlify.com)
 
 This starter uses a source plugin ([`gridsome-source-shopify`](https://gridsome.org/plugins/gridsome-source-shopify)) to pull data from Shopify's Storefront API, and load it into Gridsome's data store - which you can then use to create pages (note that this only runs at build time).
